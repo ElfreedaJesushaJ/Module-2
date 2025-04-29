@@ -35,4 +35,4 @@ else:
 ![Screenshot 2025-04-29 141938](https://github.com/user-attachments/assets/cc44b871-5634-433b-b711-1aff1f43e9fa)
 
 ## Result
-     A Python program that checks whether a given number is a **palindrome** using loops,is successfully executed
+     A Python program that checks whether a given number is a palindrome using loops,is successfully executed
